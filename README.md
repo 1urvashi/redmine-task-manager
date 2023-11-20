@@ -90,5 +90,14 @@ Implement task deletion functionality.
 
 Implement task creation functionality.
 
+##  Evaluation Criteria
+
+Code organization and project structure.
+Absence of glitches and bugs.
+Attention to detail in functionality and UI.
+User-friendliness and logical flow.
+Code readability and comprehension.
+
+## Contributing
 
 Feel free to email me, if you have any question.
