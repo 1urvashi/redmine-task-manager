@@ -1,6 +1,6 @@
 # Project Name
 
-Description of your project.
+Redmine Task Manager
 
 ## Requirements
 - PHP
@@ -29,15 +29,18 @@ Description of your project.
 3. Configure your .env file with database and Redmine API settings.
 
 4. Generate application key:
-
-php artisan migrate
-
+    ```bash
+    php artisan migrate
+    `````
 5. Compile assets:
-
-npm run dev
-
+    `````
+    npm run dev
+    `````
 6. Serve the application:
-
-php artisan serve
-
+    `````
+    php artisan serve
+    `````
 7. Open your browser and visit http://localhost:8000.
+
+
+Feel free to email me, if you have any question.
